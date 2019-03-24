@@ -1,6 +1,6 @@
 function add(a, b) {
-var a = 1000;
-var b = 54;
+var a = number;
+var b = number;
 return a + b;
 }
 
