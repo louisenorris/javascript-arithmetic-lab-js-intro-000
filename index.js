@@ -15,6 +15,4 @@ function divide(a,b) {
   return a / b;
 }
 
-function parseInt('n',10) {
-  return n;
-}
+
